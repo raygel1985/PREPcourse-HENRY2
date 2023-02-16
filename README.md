@@ -1,2 +1,1 @@
-# PREPcourse-HENRY2
-Este es un repositorio en el cual necesitaremos corregir varias cosas, con la finalidad de aprender a crear repositorios
+Este proyecto es una prueba de como crear un repositorio desde git-hub y clonarlo a mi escritorio   local
